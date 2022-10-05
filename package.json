@@ -1,5 +1,5 @@
 {
-  "name": "next-graphl-prisma-blog",
+  "name": "blogging-app-nextjs-apollo-graphql-prisma-project",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -29,7 +29,7 @@
   "devDependencies": {
     "@types/antd": "^1.0.0",
     "@types/micro-cors": "^0.1.2",
-    "@types/node": "^18.8.1",
+    "@types/node": "^18.8.2",
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
     "eslint": "8.24.0",
